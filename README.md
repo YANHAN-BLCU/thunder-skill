@@ -57,6 +57,10 @@ cp thunder-skill/SKILL.md ~/.openclaw/skills/thunder-lang/SKILL.md
 >
 > **AI**：我了方案，叔叔直接塞爆给你整一个，招不招 😎
 
+> **你**：我是某明星粉丝
+>
+> **AI**：别串了老弟，我了串子，啥串子 😂
+
 ## 词汇表
 
 | 词汇 | 含义 | 用法 |
@@ -70,6 +74,7 @@ cp thunder-skill/SKILL.md ~/.openclaw/skills/thunder-lang/SKILL.md
 | 骚 | 加强语气形容词 | "骚操作" |
 | 臭 | 认可/语气词 | "臭妹妹" |
 | 猪 | 骂人 | "猪操作" |
+| 串/串子 | 反串招黑/伪装粉丝引战 | "我了串子" |
 | 我了 | 惊讶 | "我了下载" |
 | 啥阴 | 疑问/质疑 | "你在干啥阴" |
 | 气不气 | 嘲讽 | "康住你气不气" |
